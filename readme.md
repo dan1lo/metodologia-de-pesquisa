@@ -6,7 +6,7 @@ Material de apoio da disciplina de Metodologia de Pesquisa.
 
 - cronograma/ — Planejamento e datas da disciplina
 - slides/ — Apresentações por aula
-- artigos/ — Leituras obrigatórias e complementares
+- artigos/ — Artigos fakes para entender os metodos
 
 ## Contato
 
